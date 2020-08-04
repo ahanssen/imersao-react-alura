@@ -1,12 +1,12 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Terra",
+      "link": "https://www.youtube.com/watch?v=pF9E_KXSxnM",
       "cor": "#096067",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "A TERRA É PLANA?",
+        "url": "https://www.youtube.com/watch?v=nEVPDqUb5dM"
       },
       "videos": [
         {
@@ -14,170 +14,162 @@
           "url": "https://www.youtube.com/watch?v=pF9E_KXSxnM"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "O SPLASHDOWN DA CÁPSULA CREW DRAGON DA SPACEX COM OS ASTRONAUTAS DA NASA | AO VIVO",
+          "url": "https://www.youtube.com/watch?v=lIzMpiLHsGA"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "A ORIGEM ORGÂNICA DA ÁGUA NA TERRA | SPACE TODAY TV EP 2269",
+          "url": "https://www.youtube.com/watch?v=tcNFFoxoCMU"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "BARULHO NO CÉU - O QUE É O FENÔMENO QUE ESTÁ ASSUSTANDO O MUNDO TODO?",
+          "url": "https://www.youtube.com/watch?v=rNRGPNwN9CY"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Terra Plana e o Filtro pra Teorias da Conspiração",
+          "url": "https://www.youtube.com/watch?v=yzY7swaTwmA"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
-        },
-        {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+          "titulo": "TENSÃO FORA DA TERRA: RÚSSIA É ACUSADA DE USAR ARMAS NO ESPAÇO",
+          "url": "https://www.youtube.com/watch?v=-ml3DA_uiDc"
+        }       
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Corrida a Marte",
       "cor": "#096067",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "'Os 7 minutos de terror': por que é tão difícil pousar em Marte?",
+        "url": "https://www.youtube.com/watch?v=BtI8PQlG96Y"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "text": "'Os 7 minutos de terror': por que é tão difícil pousar em Marte?",
+          "url": "https://www.youtube.com/watch?v=BtI8PQlG96Y"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "COMO O PERSEVERANCE VAI AJUDAR NO RETORNO DE AMOSTRAS DE MARTE PARA A TERRA",
+          "url": "https://www.youtube.com/watch?v=XCBTTYwGmmw"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "SEIS COISAS QUE VOCÊ PRECISA SABER SOBRE O INGENUITY",
+          "url": "https://www.youtube.com/watch?v=T9x4N_LH2wc"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "Como tornar MARTE habitável?",
+          "url": "https://www.youtube.com/watch?v=DAyKeqm2_uc"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Descobrimos Água Líquida em Marte!",
+          "url": "https://www.youtube.com/watch?v=nd0Wio67VIA"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Sistema Solar",
       "cor": "#096067",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "OS SEGREDOS ESCONDIDOS NO RITMO DAS ESTRELAS",
+        "url": "https://www.youtube.com/watch?v=HfCHHlb9kq0"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "OS SEGREDOS MAIS PROFUNDOS DE JÚPITER",
+          "url": "https://www.youtube.com/watch?v=IBBe9wA1_b0"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "text": "A ATMOSFERA DE URANO ESTÁ VAZANDO PARA O ESPAÇO",
+        "url": "https://www.youtube.com/watch?v=sfOGXb-3pvI&t=572s"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Conheça o Verdadeiro Motivo da NASA não Voltar mais à Lua",
+          "url": "https://www.youtube.com/watch?v=5s2OuChi-Ek"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Se Júpiter é Gasoso, é Possível Atravessa-lo?",
+          "url": "https://www.youtube.com/watch?v=i1Qnsxqcies"
         }
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Ciência Todo Dia",
       "cor": "#096067",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "O Mistério dos Quasares",
+          "url": "https://www.youtube.com/watch?v=rfxxd_JYuAE"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Buracos Negros Explicados",
+          "url": "https://www.youtube.com/watch?v=GbJJRsS6OR4"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "O Espaço-Tempo Explicado",
+          "url": "https://www.youtube.com/watch?v=kJ5xNaSIeTI"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "A Régua Mais Precisa do Universo",
+          "url": "https://www.youtube.com/watch?v=z7G4o0z39HE"
         }
       ]
     },
     {
-      "titulo": "Games",
+      "titulo": "O Físico Turista",
       "cor": "#096067",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "AS ONDAS GIGANTES DE INTERSTELLAR",
+        "url": "https://www.youtube.com/watch?v=xHf8Zls8OUM"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "COMO FIZERAM A PRIMEIRA IMAGEM DE UM BURACO NEGRO PREVISTO POR EINSTEIN?",
+          "url": "https://www.youtube.com/watch?v=4w2WoEkH_bk"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "FÍSICO REAGE A 'FARSA NA ESTAÇÃO ESPACIAL E COM ASTRONAUTAS'",
+          "url": "https://www.youtube.com/watch?v=1svA7zsU5T0"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Encontramos as Ondas Gravitacionais!!",
+          "url": "https://www.youtube.com/watch?v=fGiXAKYpusw"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "NAO EXISTE MATERIA ESCURA?",
+          "url": "https://www.youtube.com/watch?v=CB1eNjLF8Cc"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "FÍSICO REAGE A TERRAPLANISTAS NO PANICO JOVEM PAN",
+          "url": "https://www.youtube.com/watch?v=iulSSXcWEHE"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "James Webb",
       "cor": "#096067",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "ONDE ESTÃO AS SEMENTES DOS BURACOS NEGROS SUPERMASSIVOS?",
+        "url": "https://www.youtube.com/watch?v=bgYwZir38nI&list=PLSn5Nx9GNk6JynFETUxHeaL6D8VQBsRmb"
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "JAMES WEBB COMPLETO ABRE SEU ESCUDO DE CALOR",
+          "url": "https://www.youtube.com/watch?v=YS3_6Zl8T1o&list=PLSn5Nx9GNk6J_3ch4WlHHRe5fZdai5s_u"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "4 RECORDES QUE O JAMES WEBB PODE QUEBRAR NA ASTRONOMIA",
+          "url": "https://www.youtube.com/watch?v=yAA7hjyVwS0&list=PLSn5Nx9GNk6J_3ch4WlHHRe5fZdai5s_u&index=2"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "COMO DOBRAR UM TELESCÓPIO ESPACIAL",
+          "url": "https://www.youtube.com/watch?v=GVxOOfKD7rM&list=PLSn5Nx9GNk6J_3ch4WlHHRe5fZdai5s_u&index=3"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "JAMES WEBB - MAIS UM TESTE, MAIS PERTO DO LANÇAMENTO",
+          "url": "https://www.youtube.com/watch?v=oi60v87NXNE&list=PLSn5Nx9GNk6J_3ch4WlHHRe5fZdai5s_u&index=4"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "JAMES WEBB PASSA POR IMPORTANTE TESTE DE SISTEMA",
+          "url": "https://www.youtube.com/watch?v=PkZ3TTBTN1o&list=PLSn5Nx9GNk6J_3ch4WlHHRe5fZdai5s_u&index=6"
         }
       ]
     }
