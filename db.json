@@ -1,0 +1,10 @@
+{
+    "categorias": [
+        {
+            "id": 1,
+            "name": "Slow",
+            "description": "Vídeos do canal do Slow",
+            "color": "#096067"
+        }
+    ]
+}
