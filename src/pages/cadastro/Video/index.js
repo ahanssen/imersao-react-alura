@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import PageTemplate from '../../../components/PageTemplate';
 import { Link } from 'react-router-dom';
 

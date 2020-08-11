@@ -1,34 +1,55 @@
-import React from 'react';
-import Menu from '../../components/Menu';
-import Footer from '../../components/Footer';
+import React, { useEffect, useState } from 'react';
+import PageTemplate from '../../components/PageTemplate';
 import BannerMain from '../../components/BannerMain';
 import Carousel from '../../components/Carousel';
-
-import dadosIniciais from '../../data/dados_iniciais.json';
+import categoriesRepository from '../../repositories/categories';
 
 function Home() {
+  const [initialValues, setInitialValues] = useState([]);
+
+  useEffect(() => {
+    categoriesRepository.getAllCategoriesWithVideos()
+      .then((categoriesWithVideos) => {
+        setInitialValues(categoriesWithVideos);
+      })
+      .catch((error) => {
+        console.log(error.message);
+      });
+  }, []);
+
   return (
-    <div>
-      <Menu />
-      <BannerMain
-      videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
-      url={dadosIniciais.categorias[0].videos[0].url}
-      videoDescription={"O que é Front-end? Trabalhando na área os termos HTML, CSS e JavaScript fazem parte da rotina das desenvolvedoras e desenvolvedores. Mas o que eles fazem, afinal? Descubra com a Vanessa!"} />
+      <PageTemplate>
 
-      {dadosIniciais.categorias.map((category, index) =>
+      {initialValues.length === 0 && (<div>Loading...</div>)}
 
-      index === 0 ?
-      <Carousel
-      ignoreFirstVideo
-      category={category}
-      ></Carousel> :
+      {initialValues.length >= 1 &&  
+        initialValues.map((category, index) =>
 
-      <Carousel category={category}>
-      </Carousel>
-      )}
+          index === 0 ?
+          <div key={category.id}>
+          <BannerMain
+            videoTitle={initialValues[0].videos[0].title}
+            url={initialValues[0].videos[0].url}
+            videoDescription={"O que é Front-end? Trabalhando na área os termos HTML, CSS e JavaScript fazem parte da rotina das desenvolvedoras e desenvolvedores. Mas o que eles fazem, afinal? Descubra com a Vanessa!"} />
+    
+            
+            <Carousel
+            ignoreFirstVideo
+            category={category}
+            ></Carousel>
+            </div> :
+            
+            <Carousel
+            key={category.id}
+            category={category}>
+            </Carousel>
+            
+          )
+        
+        
+      }
 
-      <Footer />
-    </div>
+    </PageTemplate>
   );
 }
 
