@@ -18,7 +18,7 @@ function Home() {
   }, []);
 
   return (
-      <PageTemplate>
+      <PageTemplate paddingAll={0}>
 
       {initialValues.length === 0 && (<div>Loading...</div>)}
 
