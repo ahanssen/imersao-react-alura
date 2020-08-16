@@ -23,7 +23,7 @@ function CadastroCategoria() {
     fetch(URL).then(async (response) => {
       const jsonResponse = await response.json();
       setCategories([
-        ...jsonResponse
+        ...jsonResponse,
       ]);
     });
   }, []);
